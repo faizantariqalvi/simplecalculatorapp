@@ -1,0 +1,96 @@
+.main{
+    border: 2px solid black;
+    width: 400px;
+    height: 330px;
+    padding: 1px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 5px;
+    background-color: rgb(77, 55, 16);
+}
+.search{
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+.search1{
+    width: 95%;
+    margin-top: 0px;
+    margin-left: 5px;
+    height: 30px;
+    border: 2px solid #8b2e2e;
+    font-size: 20px;
+    background-color: rgb(34, 145, 126);
+}
+.btn1{
+    width: 96.5%;
+    margin-top: 10px;
+    margin-left: 5px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn1:hover{
+    background-color: rgb(76, 116, 168);
+}
+.btn2{
+    width: 90px;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 30px;
+    border: 1px solid seagreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn2:hover{
+    background-color: cadetblue;
+}
+.btn3{
+    width: 90px;
+    margin-left: 5px;
+    margin-top: 5px;
+    height: 30px;
+    border: 1px solid seagreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn3:hover{
+    background-color: cadetblue;
+}
+.btn4{
+    width: 90px;
+    margin-left: 5px;
+    margin-top: 5px;
+    height: 30px;
+    border: 1px solid seagreen;
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn4:hover{
+    background-color: cadetblue;
+}
+.btn5{
+    width: 47%;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 30px;
+    border: 1px solid rgb(194, 134, 22);
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn5:hover{
+    background-color: springgreen;
+}
+.btn6{
+    width: 47%;
+    margin-left: 5px;
+    margin-top: 10px;
+    height: 30px;
+    border: 1px solid rgb(194, 134, 22);
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn6:hover{
+    background-color: springgreen;
+}
